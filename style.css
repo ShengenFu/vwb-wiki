@@ -8,3 +8,5 @@
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 @media print{body:before,.skip-link,.hero-art{display:none}.hero{background:white;color:black}.hero .lead{color:#444}.hero h1 em{color:#444}.hero-copy{padding:20px}.shell{margin:0}.panel{box-shadow:none}.path{grid-template-columns:1fr 1fr}}
 
+
+.art-caption{display:none}
