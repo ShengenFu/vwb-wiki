@@ -10,3 +10,5 @@
 
 
 .art-caption{display:none}
+
+.name-panel{max-width:620px}.name-panel label{display:block;font-weight:600;margin-bottom:10px}.name-panel input{display:block;width:100%;padding:13px 15px;border:1px solid #bac4cb;border-radius:3px;font:inherit;background:#fff;color:var(--ink)}.name-panel input:focus{outline:2px solid var(--red);outline-offset:2px}.name-panel .meta{font-size:12px;margin:15px 0 22px}.reset-panel{margin-top:32px;border-top:2px solid #c6cfd5;background:#f0f3f5}.reset-panel p{font-size:12px}.reset-actions{display:flex;flex-wrap:wrap;gap:10px}.completion{padding:14px;background:#e7f0e9;border-left:3px solid #528360;color:#385d42!important;font-size:13px!important}#nameError{color:var(--red);font-size:12px;margin-bottom:0}@media print{.reset-panel{display:none}}
